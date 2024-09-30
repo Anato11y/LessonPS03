@@ -5,7 +5,6 @@ from googletrans import Translator
 # Создаём объект переводчика
 translator = Translator()
 
-
 # Создаём функцию, которая будет получать информацию
 def get_english_words():
     url = "https://randomword.com/"
